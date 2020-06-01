@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TRBO
+Comment=TRBO P2P Cryptocurrency
+Comment[fr]=TRBO, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TRBO, eşten eşe kriptografik sanal para birimi
+Exec=trbo-qt %u
+Terminal=false
+Type=Application
+Icon=trbo128
+MimeType=x-scheme-handler/trbo;
+Categories=Office;Finance;
